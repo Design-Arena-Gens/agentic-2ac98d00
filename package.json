@@ -1,0 +1,17 @@
+{
+  "name": "agentic-2ac98d00",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "echo 'skipping lint'"
+  },
+  "dependencies": {
+    "next": "14.2.10",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "three": "0.160.0"
+  }
+}
